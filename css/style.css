@@ -1,0 +1,146 @@
+body	{
+	background-color: #F6F8F9;
+}
+.logo {
+	display: inline-block;
+	vertical-align: middle;
+	font-family: 'Helvetica';
+	color: #FA6980;
+	font-size: 13px;
+	font-weight: bold;
+}
+.navigation {
+	display: inline-block;
+	vertical-align: middle;
+	margin-left: 92px;
+}
+.nav-li {
+	display: inline-block;
+	margin-right: 25px;
+	font-size: 11px;
+	font-family: 'Helvetica';
+	font-weight: 900;
+	color: #343638;
+}
+.active {
+	font-weight: 100;
+	color: #343638;
+}
+.image-face {
+	display: inline-block;
+	vertical-align: middle;
+	margin-left: 40px;
+}
+.header {
+	padding-top: 11px;
+	padding-bottom: 9px;
+	padding-left: 20px;
+	left: 0;
+	top: 0;
+	position: fixed;
+	width: 100%;
+	z-index: 50;
+	background-color: ##F6F8F9;
+}
+.box-main {
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 75px;
+	padding-bottom: 58px;
+	width: 1160px;
+	z-index: 20;
+}
+.title-1 {
+	font-size: 24px;
+	font-family: 'Helvetica';
+	font-weight: 900;
+	margin-top: 43px;
+	margin-bottom: 40px;
+	color: #202124;
+	text-align: left;
+}
+.photo-text-1 {
+	position: relative;
+	display: inline-block;
+	vertical-align: top;
+}
+.image-1 {
+	width: 360px;
+	height: 180px;
+}
+.ab-text {
+	position: absolute;
+	font-family: 'Helvetica';
+	font-size: 16px;
+	font-weight: bold;
+	color: #FFFFFF;
+	left: 40px;
+	top: 28px;
+}
+.box-1 {
+	padding: 66px 40px 66px 40px;
+	background-color: #FFFFFF;
+	width: 360px;
+	height: 180px;
+}
+.text-box 	{
+	color: #A6ADB4;
+	font-size: 13px;
+	font-family: 'Helvetica';
+	width: 280px;
+	line-height: 25px;
+}
+.image-clock	{
+	display: inline-block;
+	margin-right: 15px;
+	vertical-align: top;
+}
+.text-box-a {
+	display: inline-block;
+	color: #A6ADB4;
+	font-size: 13px;
+	font-family: 'Helvetica';
+	vertical-align: top;
+	line-height: 20px;
+}
+.photo-text-2 {
+	margin-left: 10px;
+	margin-right: 10px;
+	display: inline-block;
+	vertical-align: middle;
+	position: relative;
+}
+.photo-text-3 {
+	display: inline-block;
+	vertical-align: middle;
+	position: relative;
+}
+.box-main-2 {
+	margin-top: 58px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 1160px;
+	height: 1000px;	
+}
+.left-box {
+	display: inline-block;
+	vertical-align: top;
+	width: 740px;
+	height: 900px;
+}
+.left-image {
+	margin-top: 40px;
+	width: 	740px;
+}
+.right-box {
+	display: inline-block;
+	vertical-align: top;
+	width: 360px;
+	height: 896px;
+	margin-left: 40px;
+	margin-top: 40px;
+}
+.right-image {
+	margin-bottom: 102px;
+	width: 	360px;
+}
