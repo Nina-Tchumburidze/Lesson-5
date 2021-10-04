@@ -128,6 +128,20 @@ body	{
 	width: 740px;
 	height: 900px;
 }
+.wraper-div {
+	position: relative;
+}
+.abb-text {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	font-family: 'Helvetica';
+	font-size: 16px;
+	font-weight: bold;
+	color: #FFFFFF;
+
+}
 .left-image {
 	margin-top: 40px;
 	width: 	740px;
@@ -143,4 +157,58 @@ body	{
 .right-image {
 	margin-bottom: 102px;
 	width: 	360px;
+}
+.footer-main {
+	background-color: #A6ADB4;
+	padding: 58px 80px 57px 100px;
+	margin-top: 37px;
+}
+.logo-footer {
+	display: inline-block;
+	vertical-align: top;
+	font-family: 'Helvetica';
+	font-size: 13px;
+	color: #FFFFFF;
+	font-weight: 900;
+	margin-bottom: 126px;
+}
+.left {
+	display: inline-block;
+	vertical-align: top;
+	margin-left: 89px;
+}
+.centre {
+	display: inline-block;
+	vertical-align: top;
+	margin-left: 97px;
+}
+.right {
+	display: inline-block;
+	vertical-align: top;
+	margin-left: 90px;
+}
+.footer-text {
+	font-family: 'Helvetica';
+	font-size: 13px;
+	color: #FFFFFF;
+	font-weight: 100;
+	line-height: 20px;
+}
+.footer-text-box {
+	font-family: 'Helvetica';
+	font-size: 11px;
+	color: #FFFFFF;
+	font-weight: 100;
+	display: inline-block;
+	vertical-align: top;
+	margin-left: 90px;
+	line-height: 20px;
+}
+.footer-logos {
+	display: inline-block;
+	vertical-align: top;
+	margin-left: 100px;
+}
+.logos {
+	margin-right: 32px;
 }
